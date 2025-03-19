@@ -20,6 +20,8 @@ The data used in this dashboard comes from sales records, including order detail
 
 ## Tools & Technologies
 
+<img src="./PowerBi.png" width="300" height="150"
+
 Visualization Tool: Power BI (or any BI tool used for analysis)
 
 Data Source: CSV, SQL, or any database containing sales data
