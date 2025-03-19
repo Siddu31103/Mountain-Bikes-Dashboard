@@ -20,6 +20,7 @@ The data used in this dashboard comes from sales records, including order detail
 
 ## Tools & Technologies
 
+<img src="./ PowerBi.png.png" width="300" height="150"
 
 Visualization Tool: Power BI (or any BI tool used for analysis)
 
