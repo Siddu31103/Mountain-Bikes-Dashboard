@@ -1,8 +1,8 @@
-#Overview
+## Overview
 
 This repository contains a sales dashboard that visualizes key business metrics such as revenue, profit, order volume, and return rates. The dashboard provides insights into sales trends and product performance.
 
-#Features
+## Features
 
 Revenue & Profit Tracking: Displays total revenue ($24.9M) and profit ($10.5M).
 
@@ -14,11 +14,11 @@ Product Performance: Table displaying sales and return rates for individual prod
 
 Category-wise Orders: Bar chart visualizing orders by category (Accessories, Bikes, Clothing).
 
-#Data Sources
+## Data Sources
 
 The data used in this dashboard comes from sales records, including order details, revenue, and return rates.
 
-#Tools & Technologies
+## Tools & Technologies
 
 Visualization Tool: Power BI (or any BI tool used for analysis)
 
@@ -26,7 +26,7 @@ Data Source: CSV, SQL, or any database containing sales data
 
 Programming Languages (if applicable): Python, SQL, or DAX for data processing
 
-#Future Enhancements
+## Future Enhancements
 
 Add filters for product categories and time periods.
 
@@ -34,7 +34,7 @@ Integrate real-time data updates.
 
 Enhance UI with additional metrics and visualizations.
 
-#Dashboard
+## Dashboard
 
 <img src="Images/Dashboard.png" width="3000" height="600"/>&nbsp;
 <img src="Images/Page2.png" width="3000" height="600"/>&nbsp;
