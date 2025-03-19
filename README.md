@@ -37,5 +37,5 @@ Enhance UI with additional metrics and visualizations.
 #Dashboard
 
 <img src="Images/Dashboard.png" width="3000" height="600"/>&nbsp;
-
+<img src="Images/Page2.png" width="3000" height="600"/>&nbsp;
 
